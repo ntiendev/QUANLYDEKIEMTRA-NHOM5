@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DXApplication1",
+    "\\DXApplication1\\DXApplication1.Blazor.Server\\API\\FileAttachments",
+    "\\DXApplication1\\DXApplication1.Blazor.Server\\API\\Localization",
+    "\\DXApplication1\\DXApplication1.Blazor.Server\\API\\Reports",
+    "\\DXApplication1\\DXApplication1.Win"
+  ],
+  "SelectedNode": "\\DXApplication1\\DXApplication1.Win\\WinModule.cs",
+  "PreviewInSolutionExplorer": false
+}
