@@ -14,7 +14,7 @@ function App() {
   const {setTitle} = context;
 
   useEffect(() => {
-    document.title="Team1StudyWithMe - Exam online platform";
+    document.title="Team5StudyWithMe - Exam online platform";
     setTitle(document.title);
   }, [document.title]);
 
